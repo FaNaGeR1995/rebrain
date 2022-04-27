@@ -1,3 +1,3 @@
-module mygo/gopackages/mygit/utils/v2
+module mygo/gopackages/mygit/utils
 
-go 1.14
+go 1.13
